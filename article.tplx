@@ -1,0 +1,7 @@
+((* if not cell_style is defined *))
+    ((* set cell_style = 'style_ipython.tplx' *))
+((* endif *))
+((* extends cell_style *))
+((* block docclass *))
+\documentclass[10pt]{article}
+((* endblock docclass *))
